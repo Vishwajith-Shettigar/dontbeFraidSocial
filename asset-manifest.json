@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/dontbeFraidSocial/static/css/main.8be0078c.css",
+    "main.css": "/dontbeFraidSocial/static/css/main.920e196c.css",
     "main.js": "/dontbeFraidSocial/static/js/main.94435dca.js",
     "index.html": "/dontbeFraidSocial/index.html",
-    "main.8be0078c.css.map": "/dontbeFraidSocial/static/css/main.8be0078c.css.map",
+    "main.920e196c.css.map": "/dontbeFraidSocial/static/css/main.920e196c.css.map",
     "main.94435dca.js.map": "/dontbeFraidSocial/static/js/main.94435dca.js.map"
   },
   "entrypoints": [
-    "static/css/main.8be0078c.css",
+    "static/css/main.920e196c.css",
     "static/js/main.94435dca.js"
   ]
 }
